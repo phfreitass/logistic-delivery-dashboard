@@ -13,13 +13,19 @@ Este projeto apresenta um dashboard para monitorar entregas, desempenho e receit
 - **Filtros e Segmentação:** Filtros para visualizar dados específicos, como entregas por região ou motorista.
 
 
-### Tecnologias 
+### Plataformas e Tecnologias:
 
+- **Ferramentas de Integração:** Git e Github
 - **Plataforma de Análise:** Looker Studio
+
+#### Desenvolvimento do Banco de Dados
+
+- **Ferramentas de Desenvolvimento:** VS Code e Jupyter Notebook
 - **Linguagem de Programação:** Python
 - **Banco de Dados:** MySQL
-- **Serviço de Mapeamento:** Google Maps
+- **PaaS:** Clever Cloud
 
-## Controle de Entregas:
+
+## Dashboard
 
 https://lookerstudio.google.com/reporting/5ccda8dc-f19d-408d-b4e8-3d86c54b56d8#
